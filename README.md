@@ -1,4 +1,4 @@
-<h3 align="left">At NxtWave’s CCBP 4.0 Intensive, I’m currently working as a TA as fullstack development with a specialization in 4.0 technologies. In love with the coding challenges and hands-on projects. With Industry’s first ever IRC 4.0, getting ready to take on new challenges in the tech world.</h3>
+<h3 align="left">At NxtWave’s CCBP 4.0 Intensive, I worked as a TA as data scientist with a specialization in 4.0 technologies. In love with the coding challenges and hands-on projects. With Industry’s first ever IRC 4.0, getting ready to take on new challenges in the tech world.</h3>
 
 ###
 
