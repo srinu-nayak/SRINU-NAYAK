@@ -1,4 +1,7 @@
-<h3 align="left">At NxtWave’s CCBP 4.0 Intensive, I worked as a TA as data scientist with a specialization in 4.0 technologies. In love with the coding challenges and hands-on projects. With Industry’s first ever IRC 4.0, getting ready to take on new challenges in the tech world.</h3>
+<h3 align="left">👋 Welcome to my GitHub!
+I use data to tell stories, solve problems, and occasionally make fancy dashboards that make people say “wow.”
+Skilled in Excel, Power BI, SQL, and Python — basically, if it's got rows, columns, or code, I'm into it.
+I love turning messy data into meaningful insights (and maybe a chart or two along the way).</h3>
 
 ###
 
