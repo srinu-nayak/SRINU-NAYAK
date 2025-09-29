@@ -13,32 +13,12 @@ I love turning messy data into meaningful insights (and maybe a chart or two alo
 
 ###
 
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="30" alt="networkx logo"  />
-</div> -->
+
 <div align="left">
   <!-- Power BI (no Devicon/Skillicons, using CDN) -->
   <img src="https://img.icons8.com/color/48/power-bi.png" height="30" alt="Power BI logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
 
   <!-- Excel -->
@@ -49,13 +29,6 @@ I love turning messy data into meaningful insights (and maybe a chart or two alo
   <img src="https://img.icons8.com/color/48/tableau-software.png" height="30" alt="Tableau logo" />
   <img width="12" />
 
-  <!-- DAX Studio -->
-  <img src="https://daxstudio.org/wp-content/uploads/2021/07/DAX-Studio-Logo-512x512-1.png" height="30" alt="DAX Studio logo" />
-  <img width="12" />
-
-  <!-- Alteryx -->
-  <img src="https://www.alteryx.com/sites/default/files/2021-12/alteryx-logo-1200x630.jpg" height="30" alt="Alteryx logo" />
-  <img width="12" />
 
   <!-- SSAS -->
   <img src="https://img.icons8.com/color/48/sql.png" height="30" alt="SSAS logo" />
