@@ -35,10 +35,6 @@ I love turning messy data into meaningful insights (and maybe a chart or two alo
   <img src="https://img.icons8.com/color/48/sql.png" height="30" alt="SSAS logo" />
   <img width="12" />
 
-  <!-- Power Query / M Query -->
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-query-computer-programming-flaticons-lineal-color-flat-icons.png" height="30" alt="Power Query logo" />
-  <img width="12" />
-
   <!-- SQL Server -->
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="30" alt="SQL Server logo" />
   <img width="12" />
@@ -75,21 +71,7 @@ I love turning messy data into meaningful insights (and maybe a chart or two alo
   <img src="https://img.icons8.com/color/48/azure-1.png" height="30" alt="Azure logo" />
   <img width="12" />
 
-  <!-- DAX Studio -->
-  <img src="https://daxstudio.org/wp-content/uploads/2021/07/DAX-Studio-Logo-512x512-1.png" height="30" alt="DAX Studio logo" />
-  <img width="12" />
 
-  <!-- Alteryx -->
-  <img src="https://www.alteryx.com/sites/default/files/2021-12/alteryx-logo-1200x630.jpg" height="30" alt="Alteryx logo" />
-  <img width="12" />
-
-  <!-- BigQuery -->
-  <img src="https://img.icons8.com/color/48/google-bigquery.png" height="30" alt="BigQuery logo" />
-  <img width="12" />
-
-  <!-- Adobe Analytics -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Analytics_logo.svg/2048px-Adobe_Analytics_logo.svg.png" height="30" alt="Adobe Analytics logo" />
-  <img width="12" />
 </div>
 
 
